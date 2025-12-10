@@ -1,12 +1,13 @@
 Hello World 👋, I am prafful
 
-🔭 I’m currently preparing for on-campus interviews.
-- 🌱 I’m currently learning mern full Stack development.
-- 💞️ I’m looking to collaborate on Frontend Projects
-- 🤔 I’m looking for help with Web Development Projects.
-- 📫 How to reach me: links are below.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding is Easy
+👨‍💻 Web Developer | Frontend Enthusiast
+-🌱 Currently learning MERN Stack to expand my full-stack capabilities
+-⚙️ I enjoy building responsive, clean, and user-friendly web interfaces
+-🤝 Open to collaborating on Frontend & Full-Stack projects
+-📚 Always exploring better ways to write efficient, scalable code
+-📫 Reach me via the links below
+-⚡ Fun fact: I break things just to learn how to fix them
+-👇 Below are some of the website links I’ve developed:
 
 WORKED ON WEBSITES :
 
