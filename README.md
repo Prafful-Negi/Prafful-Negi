@@ -50,7 +50,7 @@ and many more
 
 <h5>
   <a href="mailto:prafulnegi2001@gmail.com" style="text-decoration:none; color:inherit;">
-    prafulnegi2001@gmail.com
+    📩prafulnegi2001@gmail.com
   </a>
 </h5>
 
