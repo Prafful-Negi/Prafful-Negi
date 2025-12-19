@@ -1,14 +1,15 @@
 Hello World 👋, I am prafful
 
-👨‍💻 Web Developer | Frontend Enthusiast
--🌱 Currently learning MERN Stack to expand my full-stack capabilities
--⚙️ I enjoy building responsive, clean, and user-friendly web interfaces
--🤝 Open to collaborating on Frontend & Full-Stack projects
--📚 Always exploring better ways to write efficient, scalable code
--📫 Reach me via the links below
--⚡ Fun fact: I break things just to learn how to fix them
--👇 Below are some of the website links I’ve developed:
-
+<ul>
+<li>👨‍💻 Web Developer | Frontend Enthusiast</li>
+<li>🌱 Currently learning MERN Stack to expand my full-stack capabilities</li>
+<li>⚙️ I enjoy building responsive, clean, and user-friendly web interfaces</li>
+<li>🤝 Open to collaborating on Frontend & Full-Stack projects</li>
+<li>📚 Always exploring better ways to write efficient, scalable code</li>
+<li>📫 Reach me via the links below</li>
+<li>⚡ Fun fact: I break things just to learn how to fix them</li>
+<li>👇 Below are some of the website links I’ve developed:</li>
+</ul>
 WORKED ON WEBSITES :
 
 https://frank.luxury/
